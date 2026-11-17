@@ -1,0 +1,40 @@
+# ---- Python ----
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ---- Qt / C++ 构建产物 ----
+build-*/
+debug/
+release/
+*.o
+*.obj
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.exe
+*.dll
+*.a
+Makefile
+Makefile.Debug
+Makefile.Release
+.qmake.stash
+debug_logs/
+*.pro.user
+
+# ---- OCR 运行时输出 ----
+split_ocr_results/
+output/
+*.log
+
+# ---- IDE / 系统 ----
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+Desktop.ini
+.DS_Store

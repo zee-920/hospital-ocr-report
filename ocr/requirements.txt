@@ -1,0 +1,9 @@
+# Python 后端依赖（对应 ocr/ocr.py）
+# Python 3.12 下测试通过
+paddlepaddle==3.0.0
+paddleocr==3.2.0
+opencv-contrib-python==4.10.0.84
+numpy==2.2.4
+pandas==2.3.2
+pyyaml==6.0.2
+openpyxl==3.1.5

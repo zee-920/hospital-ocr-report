@@ -1,0 +1,177 @@
+{
+    "basicInfo": {
+        "医院": "厦门中医院",
+        "备注": "*",
+        "姓名": "吴联成",
+        "年龄": "*",
+        "床号": "标本各类：抗凝全血",
+        "接收时间": "2019-7-2709:28:03",
+        "条码号": "120885955700",
+        "样本编号": "20170727G0043088",
+        "检验日期": "2019-7-27",
+        "检验日期：": "2019-7-27",
+        "病区": "预防保健科（体检科）",
+        "病历号": "8805904996",
+        "科别": "体检中心",
+        "采集时间": "2019-7-2709:28:03"
+    },
+    "imagePath": "D:/untitledocr/sample (1).jpg",
+    "testResults": [
+        {
+            "Item": "*白细胞计数（*WBC）",
+            "Reference Range": "3.5-9.5",
+            "Result": "5.9",
+            "Unit": "$10^9/L"
+        },
+        {
+            "Item": "淋巴细胞百分率（LY%)",
+            "Reference Range": "20-50",
+            "Result": "40.4",
+            "Unit": "%"
+        },
+        {
+            "Item": "单核细胞百分率（MO%）",
+            "Reference Range": "3.0-10.0",
+            "Result": "5.8",
+            "Unit": "%"
+        },
+        {
+            "Item": "中性粒细胞百分比（NE%）",
+            "Reference Range": "40.0-75.0",
+            "Result": "44.5",
+            "Unit": "%"
+        },
+        {
+            "Item": "嗜酸性粒细胞百分比（EO%）",
+            "Reference Range": "0.4-8.0",
+            "Result": "8.3",
+            "Unit": "%"
+        },
+        {
+            "Item": "嗜碱性粒细胞百分率（BA%）",
+            "Reference Range": "0.0-1.0",
+            "Result": "1",
+            "Unit": "%"
+        },
+        {
+            "Item": "中性粒细胞绝对值（NE#）",
+            "Reference Range": "1.8-6.3",
+            "Result": "2.6",
+            "Unit": "10^9/L"
+        },
+        {
+            "Item": "淋巴细胞绝对值（LY）",
+            "Reference Range": "1.1-3.2",
+            "Result": "2.4",
+            "Unit": "10^9/L"
+        },
+        {
+            "Item": "单核细胞绝对值（MO）",
+            "Reference Range": "0.1-0.6",
+            "Result": "0.3",
+            "Unit": "10^9/L"
+        },
+        {
+            "Item": "嗜酸性粒细胞绝对值（EO%）",
+            "Reference Range": "0.02-0.52",
+            "Result": "0.5",
+            "Unit": "10^9/L"
+        },
+        {
+            "Item": "嗜碱性粒细胞绝对值（BA#）",
+            "Reference Range": "0.0-0.06",
+            "Result": "0.1",
+            "Unit": "10^9/L"
+        },
+        {
+            "Item": "*红细胞计数（*RBC）",
+            "Reference Range": "4.3-5.8",
+            "Result": "5.83",
+            "Unit": "10^1g/L"
+        },
+        {
+            "Item": "血红蛋白（*HGB）",
+            "Reference Range": "130-175",
+            "Result": "167",
+            "Unit": "g/L"
+        },
+        {
+            "Item": "*红细胞压积(*HCT）",
+            "Reference Range": "40-50",
+            "Result": "48.6",
+            "Unit": "%"
+        },
+        {
+            "Item": "*红细胞平均体积（*MCV）",
+            "Reference Range": "82.0-100.0",
+            "Result": "83.4",
+            "Unit": "fL"
+        },
+        {
+            "Item": "平均血红蛋白含量（MCH）",
+            "Reference Range": "27.0-34.0",
+            "Result": "28.6",
+            "Unit": "pg"
+        },
+        {
+            "Item": "平均血红蛋白浓度（MCHC）",
+            "Reference Range": "316-354",
+            "Result": "344",
+            "Unit": "g/L"
+        },
+        {
+            "Item": "红细胞分布宽度（CV）",
+            "Reference Range": "11.5-14.5",
+            "Result": "13.100",
+            "Unit": "%"
+        },
+        {
+            "Item": "红细胞分布宽度（SD）",
+            "Reference Range": "35.0-56.0",
+            "Result": "39.30",
+            "Unit": "fL1"
+        },
+        {
+            "Item": "*血小板计数（*PLT）",
+            "Reference Range": "125-350",
+            "Result": "170",
+            "Unit": "$10^9/L"
+        },
+        {
+            "Item": "血小板压积（PCT）",
+            "Reference Range": "0.11-0.27",
+            "Result": "0.200",
+            "Unit": "%"
+        },
+        {
+            "Item": "平均血小板体积（MPV)",
+            "Reference Range": "7.4-14.0",
+            "Result": "11.5",
+            "Unit": "fL"
+        },
+        {
+            "Item": "血小板分布宽度（PDW）",
+            "Reference Range": "9-18.1",
+            "Result": "15.7",
+            "Unit": "%"
+        },
+        {
+            "Item": "大型血小板比率（P-LCR）",
+            "Reference Range": "19.6-42.6",
+            "Result": "37.8",
+            "Unit": "%"
+        },
+        {
+            "Item": "有核红细胞百分率（NRBC%）",
+            "Reference Range": "0-0",
+            "Result": "0",
+            "Unit": "%"
+        },
+        {
+            "Item": "有核红细胞绝对值（NRBC#）",
+            "Reference Range": "0-0",
+            "Result": "0",
+            "Unit": "10^9/L"
+        }
+    ]
+}
